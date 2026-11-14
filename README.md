@@ -1,4 +1,4 @@
-Zupercreator – Your Personal AI Life Agent
+##Zupercreator – Your Personal AI Life Agent##
 
 Think smarter. Make decisions. Get things done.
 
