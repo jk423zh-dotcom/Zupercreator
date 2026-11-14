@@ -1,35 +1,345 @@
-<span style='font-weight:bold;font-style:italic;font-family:"Tahoma";font-size:27px;'><span style='color:#9700B5;'>Z</span><span style='color:#9300B5;'>u</span><span style='color:#9000B5;'>p</span><span style='color:#8C00B5;'>e</span><span style='color:#8900B5;'>r</span><span style='color:#8500B5;'>c</span><span style='color:#8200B5;'>r</span><span style='color:#7E00B5;'>e</span><span style='color:#7B00B5;'>a</span><span style='color:#7800B5;'>t</span><span style='color:#7400B5;'>o</span><span style='color:#7100B5;'>r</span> <span style='color:#6A00B5;'>–</span> <span style='color:#6300B6;'>Y</span><span style='color:#6000B6;'>o</span><span style='color:#5C00B6;'>u</span><span style='color:#5900B6;'>r</span> <span style='color:#5200B6;'>P</span><span style='color:#4E00B6;'>e</span><span style='color:#4B00B6;'>r</span><span style='color:#4800B6;'>s</span><span style='color:#4400B6;'>o</span><span style='color:#4100B6;'>n</span><span style='color:#3D00B6;'>a</span><span style='color:#3A00B6;'>l</span> <span style='color:#3300B6;'>A</span><span style='color:#3000B7;'>I</span> <span style='color:#2900B7;'>L</span><span style='color:#2500B7;'>i</span><span style='color:#2200B7;'>f</span><span style='color:#1E00B7;'>e</span> <span style='color:#1800B7;'>A</span><span style='color:#1400B7;'>g</span><span style='color:#1100B7;'>e</span><span style='color:#0D00B7;'>n</span><span style='color:#0A00B7;'>t</span><span style='color:#0600B7;'>
-</span><span style='color:#0300B7;'>
-</span></span>
-</span><span style='color:#8600AC;'>
-</span><span style='color:#8600AC;'>U</span><span style='color:#8600AC;'>n</span><span style='color:#8600AC;'>l</span><span style='color:#8600AC;'>i</span><span style='color:#8600AC;'>k</span><span style='color:#8500AC;'>e</span> <span style='color:#8500AC;'>A</span><span style='color:#8500AB;'>I</span> <span style='color:#8500AB;'>h</span><span style='color:#8500AB;'>e</span><span style='color:#8500AB;'>l</span><span style='color:#8500AB;'>p</span><span style='color:#8500AB;'>e</span><span style='color:#8500AB;'>r</span><span style='color:#8500AB;'>s</span> <span style='color:#8400AB;'>t</span><span style='color:#8400AB;'>h</span><span style='color:#8400AB;'>a</span><span style='color:#8400AB;'>t</span> <span style='color:#8400AB;'>o</span><span style='color:#8400AB;'>n</span><span style='color:#8400AB;'>l</span><span style='color:#8400AB;'>y</span> <span style='color:#8400AB;'>a</span><span style='color:#8400AB;'>n</span><span style='color:#8300AB;'>s</span><span style='color:#8300AA;'>w</span><span style='color:#8300AA;'>e</span><span style='color:#8300AA;'>r</span> <span style='color:#8300AA;'>q</span><span style='color:#8300AA;'>u</span><span style='color:#8300AA;'>e</span><span style='color:#8300AA;'>s</span><span style='color:#8300AA;'>t</span><span style='color:#8300AA;'>i</span><span style='color:#8300AA;'>o</span><span style='color:#8200AA;'>n</span><span style='color:#8200AA;'>s</span> <span style='color:#8200AA;'>o</span><span style='color:#8200AA;'>r</span> <span style='color:#8200AA;'>g</span><span style='color:#8200AA;'>i</span><span style='color:#8200AA;'>v</span><span style='color:#8200AA;'>e</span> <span style='color:#8200AA;'>s</span><span style='color:#8200AA;'>u</span><span style='color:#8100A9;'>g</span><span style='color:#8100A9;'>g</span><span style='color:#8100A9;'>e</span><span style='color:#8100A9;'>s</span><span style='color:#8100A9;'>t</span><span style='color:#8100A9;'>i</span><span style='color:#8100A9;'>o</span><span style='color:#8100A9;'>n</span><span style='color:#8100A9;'>s</span> <span style='color:#8100A9;'>Z</span><span style='color:#8100A9;'>u</span><span style='color:#8000A9;'>p</span><span style='color:#8000A9;'>e</span><span style='color:#8000A9;'>r</span><span style='color:#8000A9;'>c</span><span style='color:#8000A9;'>r</span><span style='color:#8000A9;'>e</span><span style='color:#8000A9;'>a</span><span style='color:#8000A9;'>t</span><span style='color:#8000A9;'>o</span><span style='color:#8000A9;'>r</span> <span style='color:#8000A9;'>f</span><span style='color:#8000A8;'>o</span><span style='color:#7F00A8;'>l</span><span style='color:#7F00A8;'>l</span><span style='color:#7F00A8;'>o</span><span style='color:#7F00A8;'>w</span><span style='color:#7F00A8;'>s</span> <span style='color:#7F00A8;'>a</span> <span style='color:#7F00A8;'>f</span><span style='color:#7F00A8;'>u</span><span style='color:#7F00A8;'>l</span><span style='color:#7F00A8;'>l</span> <span style='color:#7E00A8;'>p</span><span style='color:#7E00A8;'>r</span><span style='color:#7E00A8;'>o</span><span style='color:#7E00A8;'>b</span><span style='color:#7E00A8;'>l</span><span style='color:#7E00A8;'>e</span><span style='color:#7E00A8;'>m</span><span style='color:#7E00A8;'>‑</span><span style='color:#7E00A8;'>s</span><span style='color:#7E00A8;'>o</span><span style='color:#7E00A7;'>l</span><span style='color:#7E00A7;'>v</span><span style='color:#7D00A7;'>i</span><span style='color:#7D00A7;'>n</span><span style='color:#7D00A7;'>g</span> <span style='color:#7D00A7;'>p</span><span style='color:#7D00A7;'>r</span><span style='color:#7D00A7;'>o</span><span style='color:#7D00A7;'>c</span><span style='color:#7D00A7;'>e</span><span style='color:#7D00A7;'>s</span><span style='color:#7D00A7;'>s</span><span style='color:#7D00A7;'>:</span> <span style='color:#7C00A7;'>i</span><span style='color:#7C00A7;'>t</span> <span style='color:#7C00A7;'>f</span><span style='color:#7C00A7;'>i</span><span style='color:#7C00A7;'>r</span><span style='color:#7C00A7;'>s</span><span style='color:#7C00A7;'>t</span> <span style='color:#7C00A6;'>u</span><span style='color:#7C00A6;'>n</span><span style='color:#7B00A6;'>d</span><span style='color:#7B00A6;'>e</span><span style='color:#7B00A6;'>r</span><span style='color:#7B00A6;'>s</span><span style='color:#7B00A6;'>t</span><span style='color:#7B00A6;'>a</span><span style='color:#7B00A6;'>n</span><span style='color:#7B00A6;'>d</span><span style='color:#7B00A6;'>s</span> <span style='color:#7B00A6;'>w</span><span style='color:#7B00A6;'>h</span><span style='color:#7B00A6;'>a</span><span style='color:#7A00A6;'>t</span> <span style='color:#7A00A6;'>y</span><span style='color:#7A00A6;'>o</span><span style='color:#7A00A6;'>u</span> <span style='color:#7A00A6;'>n</span><span style='color:#7A00A6;'>e</span><span style='color:#7A00A5;'>e</span><span style='color:#7A00A5;'>d</span> <span style='color:#7A00A5;'>t</span><span style='color:#7900A5;'>h</span><span style='color:#7900A5;'>e</span><span style='color:#7900A5;'>n</span> <span style='color:#7900A5;'>l</span><span style='color:#7900A5;'>o</span><span style='color:#7900A5;'>o</span><span style='color:#7900A5;'>k</span><span style='color:#7900A5;'>s</span> <span style='color:#7900A5;'>f</span><span style='color:#7900A5;'>o</span><span style='color:#7900A5;'>r</span> <span style='color:#7800A5;'>r</span><span style='color:#7800A5;'>e</span><span style='color:#7800A5;'>l</span><span style='color:#7800A5;'>i</span><span style='color:#7800A5;'>a</span><span style='color:#7800A5;'>b</span><span style='color:#7800A4;'>l</span><span style='color:#7800A4;'>e</span> <span style='color:#7800A4;'>d</span><span style='color:#7800A4;'>a</span><span style='color:#7700A4;'>t</span><span style='color:#7700A4;'>a</span> <span style='color:#7700A4;'>e</span><span style='color:#7700A4;'>x</span><span style='color:#7700A4;'>p</span><span style='color:#7700A4;'>l</span><span style='color:#7700A4;'>o</span><span style='color:#7700A4;'>r</span><span style='color:#7700A4;'>e</span><span style='color:#7700A4;'>s</span> <span style='color:#7700A4;'>o</span><span style='color:#7600A4;'>p</span><span style='color:#7600A4;'>t</span><span style='color:#7600A4;'>i</span><span style='color:#7600A4;'>o</span><span style='color:#7600A4;'>n</span><span style='color:#7600A4;'>s</span><span style='color:#7600A3;'>,</span> <span style='color:#7600A3;'>c</span><span style='color:#7600A3;'>h</span><span style='color:#7600A3;'>e</span><span style='color:#7600A3;'>c</span><span style='color:#7500A3;'>k</span><span style='color:#7500A3;'>s</span> <span style='color:#7500A3;'>i</span><span style='color:#7500A3;'>t</span><span style='color:#7500A3;'>s</span> <span style='color:#7500A3;'>o</span><span style='color:#7500A3;'>w</span><span style='color:#7500A3;'>n</span> <span style='color:#7500A3;'>i</span><span style='color:#7500A3;'>d</span><span style='color:#7400A3;'>e</span><span style='color:#7400A3;'>a</span><span style='color:#7400A3;'>s</span> <span style='color:#7400A3;'>a</span><span style='color:#7400A2;'>n</span><span style='color:#7400A2;'>d</span> <span style='color:#7400A2;'>h</span><span style='color:#7400A2;'>e</span><span style='color:#7400A2;'>l</span><span style='color:#7400A2;'>p</span><span style='color:#7300A2;'>s</span> <span style='color:#7300A2;'>y</span><span style='color:#7300A2;'>o</span><span style='color:#7300A2;'>u</span> <span style='color:#7300A2;'>c</span><span style='color:#7300A2;'>a</span><span style='color:#7300A2;'>r</span><span style='color:#7300A2;'>r</span><span style='color:#7300A2;'>y</span> <span style='color:#7200A2;'>o</span><span style='color:#7200A2;'>u</span><span style='color:#7200A2;'>t</span> <span style='color:#7200A1;'>t</span><span style='color:#7200A1;'>h</span><span style='color:#7200A1;'>e</span> <span style='color:#7200A1;'>b</span><span style='color:#7200A1;'>e</span><span style='color:#7200A1;'>s</span><span style='color:#7200A1;'>t</span> <span style='color:#7100A1;'>p</span><span style='color:#7100A1;'>l</span><span style='color:#7100A1;'>a</span><span style='color:#7100A1;'>n</span><span style='color:#7100A1;'>.</span><span style='color:#7100A1;'>
-</span><span style='color:#7100A1;'>
-</span><span style='color:#7100A1;'>W</span><span style='color:#7100A1;'>h</span><span style='color:#7100A1;'>a</span><span style='color:#7100A1;'>t</span> <span style='color:#7000A1;'>C</span><span style='color:#7000A1;'>a</span><span style='color:#7000A1;'>n</span> <span style='color:#7000A0;'>Z</span><span style='color:#7000A0;'>u</span><span style='color:#7000A0;'>p</span><span style='color:#7000A0;'>e</span><span style='color:#7000A0;'>r</span><span style='color:#7000A0;'>c</span><span style='color:#7000A0;'>r</span><span style='color:#7000A0;'>e</span><span style='color:#7000A0;'>a</span><span style='color:#6F00A0;'>t</span><span style='color:#6F00A0;'>o</span><span style='color:#6F00A0;'>r</span> <span style='color:#6F00A0;'>D</span><span style='color:#6F00A0;'>o</span><span style='color:#6F00A0;'>?</span><span style='color:#6F00A0;'>
-</span><span style='color:#6F00A0;'>
-</span><span style='color:#6F00A0;'>C</span><span style='color:#6F00A0;'>a</span><span style='color:#6F00A0;'>r</span><span style='color:#6E00A0;'>e</span><span style='color:#6E00A0;'>f</span><span style='color:#6E009F;'>u</span><span style='color:#6E009F;'>l</span> <span style='color:#6E009F;'>T</span><span style='color:#6E009F;'>h</span><span style='color:#6E009F;'>i</span><span style='color:#6E009F;'>n</span><span style='color:#6E009F;'>k</span><span style='color:#6E009F;'>i</span><span style='color:#6E009F;'>n</span><span style='color:#6E009F;'>g</span><span style='color:#6D009F;'>:</span> <span style='color:#6D009F;'>U</span><span style='color:#6D009F;'>n</span><span style='color:#6D009F;'>d</span><span style='color:#6D009F;'>e</span><span style='color:#6D009F;'>r</span><span style='color:#6D009F;'>s</span><span style='color:#6D009F;'>t</span><span style='color:#6D009F;'>a</span><span style='color:#6D009F;'>n</span><span style='color:#6D009F;'>d</span> <span style='color:#6C009E;'>y</span><span style='color:#6C009E;'>o</span><span style='color:#6C009E;'>u</span><span style='color:#6C009E;'>r</span> <span style='color:#6C009E;'>g</span><span style='color:#6C009E;'>o</span><span style='color:#6C009E;'>a</span><span style='color:#6C009E;'>l</span><span style='color:#6C009E;'>s</span><span style='color:#6C009E;'>,</span> <span style='color:#6B009E;'>a</span><span style='color:#6B009E;'>n</span><span style='color:#6B009E;'>a</span><span style='color:#6B009E;'>l</span><span style='color:#6B009E;'>y</span><span style='color:#6B009E;'>z</span><span style='color:#6B009E;'>e</span> <span style='color:#6B009E;'>p</span><span style='color:#6B009E;'>r</span><span style='color:#6B009E;'>o</span><span style='color:#6B009E;'>b</span><span style='color:#6A009D;'>l</span><span style='color:#6A009D;'>e</span><span style='color:#6A009D;'>m</span><span style='color:#6A009D;'>s</span><span style='color:#6A009D;'>,</span> <span style='color:#6A009D;'>q</span><span style='color:#6A009D;'>u</span><span style='color:#6A009D;'>e</span><span style='color:#6A009D;'>s</span><span style='color:#6A009D;'>t</span><span style='color:#6A009D;'>i</span><span style='color:#69009D;'>o</span><span style='color:#69009D;'>n</span> <span style='color:#69009D;'>a</span><span style='color:#69009D;'>s</span><span style='color:#69009D;'>s</span><span style='color:#69009D;'>u</span><span style='color:#69009D;'>m</span><span style='color:#69009D;'>p</span><span style='color:#69009D;'>t</span><span style='color:#69009D;'>i</span><span style='color:#69009C;'>o</span><span style='color:#69009C;'>n</span><span style='color:#68009C;'>s</span> <span style='color:#68009C;'>a</span><span style='color:#68009C;'>n</span><span style='color:#68009C;'>d</span> <span style='color:#68009C;'>b</span><span style='color:#68009C;'>u</span><span style='color:#68009C;'>i</span><span style='color:#68009C;'>l</span><span style='color:#68009C;'>d</span> <span style='color:#67009C;'>s</span><span style='color:#67009C;'>o</span><span style='color:#67009C;'>l</span><span style='color:#67009C;'>u</span><span style='color:#67009C;'>t</span><span style='color:#67009C;'>i</span><span style='color:#67009C;'>o</span><span style='color:#67009C;'>n</span><span style='color:#67009C;'>s</span><span style='color:#67009C;'>.</span><span style='color:#67009B;'>
-</span><span style='color:#67009B;'>
-</span><span style='color:#67009B;'>T</span><span style='color:#66009B;'>h</span><span style='color:#66009B;'>o</span><span style='color:#66009B;'>r</span><span style='color:#66009B;'>o</span><span style='color:#66009B;'>u</span><span style='color:#66009B;'>g</span><span style='color:#66009B;'>h</span> <span style='color:#66009B;'>R</span><span style='color:#66009B;'>e</span><span style='color:#66009B;'>s</span><span style='color:#66009B;'>e</span><span style='color:#65009B;'>a</span><span style='color:#65009B;'>r</span><span style='color:#65009B;'>c</span><span style='color:#65009B;'>h</span><span style='color:#65009B;'>:</span> <span style='color:#65009B;'>I</span><span style='color:#65009B;'>n</span><span style='color:#65009B;'>v</span><span style='color:#65009A;'>e</span><span style='color:#65009A;'>s</span><span style='color:#65009A;'>t</span><span style='color:#65009A;'>i</span><span style='color:#64009A;'>g</span><span style='color:#64009A;'>a</span><span style='color:#64009A;'>t</span><span style='color:#64009A;'>e</span> <span style='color:#64009A;'>s</span><span style='color:#64009A;'>o</span><span style='color:#64009A;'>u</span><span style='color:#64009A;'>r</span><span style='color:#64009A;'>c</span><span style='color:#64009A;'>e</span><span style='color:#64009A;'>s</span><span style='color:#63009A;'>,</span> <span style='color:#63009A;'>p</span><span style='color:#63009A;'>r</span><span style='color:#63009A;'>o</span><span style='color:#63009A;'>f</span><span style='color:#63009A;'>e</span><span style='color:#63009A;'>s</span><span style='color:#630099;'>s</span><span style='color:#630099;'>i</span><span style='color:#630099;'>o</span><span style='color:#630099;'>n</span><span style='color:#630099;'>a</span><span style='color:#620099;'>l</span> <span style='color:#620099;'>r</span><span style='color:#620099;'>e</span><span style='color:#620099;'>v</span><span style='color:#620099;'>i</span><span style='color:#620099;'>e</span><span style='color:#620099;'>w</span><span style='color:#620099;'>s</span><span style='color:#620099;'>,</span> <span style='color:#620099;'>o</span><span style='color:#610099;'>f</span><span style='color:#610099;'>f</span><span style='color:#610099;'>i</span><span style='color:#610099;'>c</span><span style='color:#610099;'>i</span><span style='color:#610099;'>a</span><span style='color:#610098;'>l</span> <span style='color:#610098;'>i</span><span style='color:#610098;'>n</span><span style='color:#610098;'>f</span><span style='color:#610098;'>o</span><span style='color:#600098;'>r</span><span style='color:#600098;'>m</span><span style='color:#600098;'>a</span><span style='color:#600098;'>t</span><span style='color:#600098;'>i</span><span style='color:#600098;'>o</span><span style='color:#600098;'>n</span> <span style='color:#600098;'>a</span><span style='color:#600098;'>n</span><span style='color:#600098;'>d</span> <span style='color:#600098;'>r</span><span style='color:#5F0098;'>e</span><span style='color:#5F0098;'>a</span><span style='color:#5F0098;'>l</span><span style='color:#5F0098;'>‑</span><span style='color:#5F0098;'>w</span><span style='color:#5F0097;'>o</span><span style='color:#5F0097;'>r</span><span style='color:#5F0097;'>l</span><span style='color:#5F0097;'>d</span> <span style='color:#5F0097;'>u</span><span style='color:#5F0097;'>s</span><span style='color:#5E0097;'>e</span><span style='color:#5E0097;'>r</span> <span style='color:#5E0097;'>e</span><span style='color:#5E0097;'>x</span><span style='color:#5E0097;'>p</span><span style='color:#5E0097;'>e</span><span style='color:#5E0097;'>r</span><span style='color:#5E0097;'>i</span><span style='color:#5E0097;'>e</span><span style='color:#5E0097;'>n</span><span style='color:#5E0097;'>c</span><span style='color:#5E0097;'>e</span><span style='color:#5D0097;'>s</span> <span style='color:#5D0097;'>b</span><span style='color:#5D0097;'>e</span><span style='color:#5D0096;'>f</span><span style='color:#5D0096;'>o</span><span style='color:#5D0096;'>r</span><span style='color:#5D0096;'>e</span> <span style='color:#5D0096;'>m</span><span style='color:#5D0096;'>a</span><span style='color:#5D0096;'>k</span><span style='color:#5C0096;'>i</span><span style='color:#5C0096;'>n</span><span style='color:#5C0096;'>g</span> <span style='color:#5C0096;'>r</span><span style='color:#5C0096;'>e</span><span style='color:#5C0096;'>c</span><span style='color:#5C0096;'>o</span><span style='color:#5C0096;'>m</span><span style='color:#5C0096;'>m</span><span style='color:#5C0096;'>e</span><span style='color:#5C0096;'>n</span><span style='color:#5C0096;'>d</span><span style='color:#5B0096;'>a</span><span style='color:#5B0096;'>t</span><span style='color:#5B0096;'>i</span><span style='color:#5B0095;'>o</span><span style='color:#5B0095;'>n</span><span style='color:#5B0095;'>s</span><span style='color:#5B0095;'>.</span><span style='color:#5B0095;'>
-</span><span style='color:#5B0095;'>
-</span><span style='color:#5B0095;'>C</span><span style='color:#5B0095;'>r</span><span style='color:#5B0095;'>e</span><span style='color:#5A0095;'>a</span><span style='color:#5A0095;'>t</span><span style='color:#5A0095;'>i</span><span style='color:#5A0095;'>v</span><span style='color:#5A0095;'>e</span> <span style='color:#5A0095;'>B</span><span style='color:#5A0095;'>r</span><span style='color:#5A0095;'>a</span><span style='color:#5A0095;'>i</span><span style='color:#5A0095;'>n</span><span style='color:#5A0095;'>s</span><span style='color:#5A0095;'>t</span><span style='color:#590095;'>o</span><span style='color:#590095;'>r</span><span style='color:#590094;'>m</span><span style='color:#590094;'>i</span><span style='color:#590094;'>n</span><span style='color:#590094;'>g</span><span style='color:#590094;'>:</span> <span style='color:#590094;'>G</span><span style='color:#590094;'>e</span><span style='color:#590094;'>n</span><span style='color:#590094;'>e</span><span style='color:#580094;'>r</span><span style='color:#580094;'>a</span><span style='color:#580094;'>t</span><span style='color:#580094;'>e</span> <span style='color:#580094;'>i</span><span style='color:#580094;'>d</span><span style='color:#580094;'>e</span><span style='color:#580094;'>a</span><span style='color:#580094;'>s</span><span style='color:#580094;'>,</span> <span style='color:#570094;'>c</span><span style='color:#570093;'>o</span><span style='color:#570093;'>m</span><span style='color:#570093;'>p</span><span style='color:#570093;'>a</span><span style='color:#570093;'>r</span><span style='color:#570093;'>e</span> <span style='color:#570093;'>d</span><span style='color:#570093;'>i</span><span style='color:#570093;'>f</span><span style='color:#570093;'>f</span><span style='color:#570093;'>e</span><span style='color:#560093;'>r</span><span style='color:#560093;'>e</span><span style='color:#560093;'>n</span><span style='color:#560093;'>t</span> <span style='color:#560093;'>a</span><span style='color:#560093;'>p</span><span style='color:#560093;'>p</span><span style='color:#560093;'>r</span><span style='color:#560093;'>o</span><span style='color:#560093;'>a</span><span style='color:#560093;'>c</span><span style='color:#550092;'>h</span><span style='color:#550092;'>e</span><span style='color:#550092;'>s</span> <span style='color:#550092;'>a</span><span style='color:#550092;'>n</span><span style='color:#550092;'>d</span> <span style='color:#550092;'>i</span><span style='color:#550092;'>d</span><span style='color:#550092;'>e</span><span style='color:#550092;'>n</span><span style='color:#550092;'>t</span><span style='color:#540092;'>i</span><span style='color:#540092;'>f</span><span style='color:#540092;'>y</span> <span style='color:#540092;'>t</span><span style='color:#540092;'>h</span><span style='color:#540092;'>e</span> <span style='color:#540092;'>m</span><span style='color:#540092;'>o</span><span style='color:#540092;'>s</span><span style='color:#540091;'>t</span> <span style='color:#530091;'>p</span><span style='color:#530091;'>r</span><span style='color:#530091;'>a</span><span style='color:#530091;'>c</span><span style='color:#530091;'>t</span><span style='color:#530091;'>i</span><span style='color:#530091;'>c</span><span style='color:#530091;'>a</span><span style='color:#530091;'>l</span> <span style='color:#530091;'>s</span><span style='color:#530091;'>o</span><span style='color:#520091;'>l</span><span style='color:#520091;'>u</span><span style='color:#520091;'>t</span><span style='color:#520091;'>i</span><span style='color:#520091;'>o</span><span style='color:#520091;'>n</span><span style='color:#520091;'>s</span><span style='color:#520091;'>.</span><span style='color:#520091;'>
-</span><span style='color:#520091;'>
-</span><span style='color:#520090;'>P</span><span style='color:#520090;'>e</span><span style='color:#510090;'>r</span><span style='color:#510090;'>s</span><span style='color:#510090;'>o</span><span style='color:#510090;'>n</span><span style='color:#510090;'>a</span><span style='color:#510090;'>l</span><span style='color:#510090;'>i</span><span style='color:#510090;'>z</span><span style='color:#510090;'>e</span><span style='color:#510090;'>d</span> <span style='color:#510090;'>H</span><span style='color:#510090;'>e</span><span style='color:#500090;'>l</span><span style='color:#500090;'>p</span><span style='color:#500090;'>:</span> <span style='color:#500090;'>A</span><span style='color:#500090;'>d</span><span style='color:#500090;'>a</span><span style='color:#500090;'>p</span><span style='color:#500090;'>t</span> <span style='color:#50008F;'>r</span><span style='color:#50008F;'>e</span><span style='color:#4F008F;'>c</span><span style='color:#4F008F;'>o</span><span style='color:#4F008F;'>m</span><span style='color:#4F008F;'>m</span><span style='color:#4F008F;'>e</span><span style='color:#4F008F;'>n</span><span style='color:#4F008F;'>d</span><span style='color:#4F008F;'>a</span><span style='color:#4F008F;'>t</span><span style='color:#4F008F;'>i</span><span style='color:#4F008F;'>o</span><span style='color:#4F008F;'>n</span><span style='color:#4E008F;'>s</span> <span style='color:#4E008F;'>t</span><span style='color:#4E008F;'>o</span> <span style='color:#4E008F;'>y</span><span style='color:#4E008F;'>o</span><span style='color:#4E008F;'>u</span><span style='color:#4E008E;'>r</span> <span style='color:#4E008E;'>p</span><span style='color:#4E008E;'>r</span><span style='color:#4E008E;'>e</span><span style='color:#4D008E;'>f</span><span style='color:#4D008E;'>e</span><span style='color:#4D008E;'>r</span><span style='color:#4D008E;'>e</span><span style='color:#4D008E;'>n</span><span style='color:#4D008E;'>c</span><span style='color:#4D008E;'>e</span><span style='color:#4D008E;'>s</span><span style='color:#4D008E;'>,</span> <span style='color:#4D008E;'>b</span><span style='color:#4D008E;'>u</span><span style='color:#4C008E;'>d</span><span style='color:#4C008E;'>g</span><span style='color:#4C008E;'>e</span><span style='color:#4C008E;'>t</span><span style='color:#4C008E;'>,</span> <span style='color:#4C008E;'>l</span><span style='color:#4C008D;'>i</span><span style='color:#4C008D;'>f</span><span style='color:#4C008D;'>e</span><span style='color:#4C008D;'>s</span><span style='color:#4C008D;'>t</span><span style='color:#4C008D;'>y</span><span style='color:#4B008D;'>l</span><span style='color:#4B008D;'>e</span><span style='color:#4B008D;'>,</span> <span style='color:#4B008D;'>p</span><span style='color:#4B008D;'>r</span><span style='color:#4B008D;'>i</span><span style='color:#4B008D;'>o</span><span style='color:#4B008D;'>r</span><span style='color:#4B008D;'>i</span><span style='color:#4B008D;'>t</span><span style='color:#4B008D;'>i</span><span style='color:#4A008D;'>e</span><span style='color:#4A008D;'>s</span> <span style='color:#4A008D;'>a</span><span style='color:#4A008D;'>n</span><span style='color:#4A008D;'>d</span> <span style='color:#4A008C;'>a</span><span style='color:#4A008C;'>v</span><span style='color:#4A008C;'>a</span><span style='color:#4A008C;'>i</span><span style='color:#4A008C;'>l</span><span style='color:#4A008C;'>a</span><span style='color:#49008C;'>b</span><span style='color:#49008C;'>l</span><span style='color:#49008C;'>e</span> <span style='color:#49008C;'>r</span><span style='color:#49008C;'>e</span><span style='color:#49008C;'>s</span><span style='color:#49008C;'>o</span><span style='color:#49008C;'>u</span><span style='color:#49008C;'>r</span><span style='color:#49008C;'>c</span><span style='color:#49008C;'>e</span><span style='color:#48008C;'>s</span><span style='color:#48008C;'>.</span><span style='color:#48008C;'>
-</span><span style='color:#48008C;'>
-</span><span style='color:#48008C;'>R</span><span style='color:#48008B;'>e</span><span style='color:#48008B;'>a</span><span style='color:#48008B;'>l</span><span style='color:#48008B;'>‑</span><span style='color:#48008B;'>W</span><span style='color:#48008B;'>o</span><span style='color:#48008B;'>r</span><span style='color:#48008B;'>l</span><span style='color:#47008B;'>d</span> <span style='color:#47008B;'>A</span><span style='color:#47008B;'>c</span><span style='color:#47008B;'>t</span><span style='color:#47008B;'>i</span><span style='color:#47008B;'>o</span><span style='color:#47008B;'>n</span><span style='color:#47008B;'>:</span> <span style='color:#47008B;'>U</span><span style='color:#47008B;'>s</span><span style='color:#46008B;'>e</span> <span style='color:#46008B;'>A</span><span style='color:#46008A;'>I</span> <span style='color:#46008A;'>t</span><span style='color:#46008A;'>o</span><span style='color:#46008A;'>o</span><span style='color:#46008A;'>l</span><span style='color:#46008A;'>s</span><span style='color:#46008A;'>,</span> <span style='color:#45008A;'>b</span><span style='color:#45008A;'>r</span><span style='color:#45008A;'>o</span><span style='color:#45008A;'>w</span><span style='color:#45008A;'>s</span><span style='color:#45008A;'>e</span><span style='color:#45008A;'>r</span> <span style='color:#45008A;'>a</span><span style='color:#45008A;'>c</span><span style='color:#45008A;'>c</span><span style='color:#45008A;'>e</span><span style='color:#45008A;'>s</span><span style='color:#44008A;'>s</span><span style='color:#44008A;'>,</span> <span style='color:#440089;'>c</span><span style='color:#440089;'>o</span><span style='color:#440089;'>m</span><span style='color:#440089;'>p</span><span style='color:#440089;'>u</span><span style='color:#440089;'>t</span><span style='color:#440089;'>e</span><span style='color:#440089;'>r</span> <span style='color:#430089;'>c</span><span style='color:#430089;'>o</span><span style='color:#430089;'>n</span><span style='color:#430089;'>t</span><span style='color:#430089;'>r</span><span style='color:#430089;'>o</span><span style='color:#430089;'>l</span> <span style='color:#430089;'>a</span><span style='color:#430089;'>n</span><span style='color:#430089;'>d</span> <span style='color:#430089;'>c</span><span style='color:#420089;'>o</span><span style='color:#420088;'>n</span><span style='color:#420088;'>n</span><span style='color:#420088;'>e</span><span style='color:#420088;'>c</span><span style='color:#420088;'>t</span><span style='color:#420088;'>e</span><span style='color:#420088;'>d</span> <span style='color:#420088;'>a</span><span style='color:#420088;'>p</span><span style='color:#420088;'>p</span><span style='color:#410088;'>l</span><span style='color:#410088;'>i</span><span style='color:#410088;'>c</span><span style='color:#410088;'>a</span><span style='color:#410088;'>t</span><span style='color:#410088;'>i</span><span style='color:#410088;'>o</span><span style='color:#410088;'>n</span><span style='color:#410088;'>s</span> <span style='color:#410088;'>t</span><span style='color:#410088;'>o</span> <span style='color:#400087;'>c</span><span style='color:#400087;'>o</span><span style='color:#400087;'>m</span><span style='color:#400087;'>p</span><span style='color:#400087;'>l</span><span style='color:#400087;'>e</span><span style='color:#400087;'>t</span><span style='color:#400087;'>e</span> <span style='color:#400087;'>p</span><span style='color:#400087;'>r</span><span style='color:#400087;'>a</span><span style='color:#3F0087;'>c</span><span style='color:#3F0087;'>t</span><span style='color:#3F0087;'>i</span><span style='color:#3F0087;'>c</span><span style='color:#3F0087;'>a</span><span style='color:#3F0087;'>l</span> <span style='color:#3F0087;'>t</span><span style='color:#3F0087;'>a</span><span style='color:#3F0087;'>s</span><span style='color:#3F0087;'>k</span><span style='color:#3F0087;'>s</span><span style='color:#3F0086;'>.</span><span style='color:#3E0086;'>
-</span><span style='color:#3E0086;'>
-</span><span style='color:#3E0086;'>T</span><span style='color:#3E0086;'>a</span><span style='color:#3E0086;'>s</span><span style='color:#3E0086;'>k</span> <span style='color:#3E0086;'>M</span><span style='color:#3E0086;'>a</span><span style='color:#3E0086;'>n</span><span style='color:#3E0086;'>a</span><span style='color:#3E0086;'>g</span><span style='color:#3D0086;'>e</span><span style='color:#3D0086;'>m</span><span style='color:#3D0086;'>e</span><span style='color:#3D0086;'>n</span><span style='color:#3D0086;'>t</span><span style='color:#3D0086;'>:</span> <span style='color:#3D0086;'>H</span><span style='color:#3D0086;'>e</span><span style='color:#3D0086;'>l</span><span style='color:#3D0085;'>p</span> <span style='color:#3C0085;'>o</span><span style='color:#3C0085;'>r</span><span style='color:#3C0085;'>g</span><span style='color:#3C0085;'>a</span><span style='color:#3C0085;'>n</span><span style='color:#3C0085;'>i</span><span style='color:#3C0085;'>z</span><span style='color:#3C0085;'>e</span> <span style='color:#3C0085;'>p</span><span style='color:#3C0085;'>r</span><span style='color:#3C0085;'>o</span><span style='color:#3C0085;'>j</span><span style='color:#3B0085;'>e</span><span style='color:#3B0085;'>c</span><span style='color:#3B0085;'>t</span><span style='color:#3B0085;'>s</span> <span style='color:#3B0085;'>p</span><span style='color:#3B0085;'>r</span><span style='color:#3B0085;'>e</span><span style='color:#3B0085;'>p</span><span style='color:#3B0084;'>a</span><span style='color:#3B0084;'>r</span><span style='color:#3B0084;'>e</span> <span style='color:#3A0084;'>d</span><span style='color:#3A0084;'>o</span><span style='color:#3A0084;'>c</span><span style='color:#3A0084;'>u</span><span style='color:#3A0084;'>m</span><span style='color:#3A0084;'>e</span><span style='color:#3A0084;'>n</span><span style='color:#3A0084;'>t</span><span style='color:#3A0084;'>s</span> <span style='color:#3A0084;'>p</span><span style='color:#3A0084;'>l</span><span style='color:#390084;'>a</span><span style='color:#390084;'>n</span> <span style='color:#390084;'>s</span><span style='color:#390084;'>c</span><span style='color:#390084;'>h</span><span style='color:#390084;'>e</span><span style='color:#390084;'>d</span><span style='color:#390083;'>u</span><span style='color:#390083;'>l</span><span style='color:#390083;'>e</span><span style='color:#390083;'>s</span><span style='color:#380083;'>,</span> <span style='color:#380083;'>r</span><span style='color:#380083;'>e</span><span style='color:#380083;'>s</span><span style='color:#380083;'>e</span><span style='color:#380083;'>a</span><span style='color:#380083;'>r</span><span style='color:#380083;'>c</span><span style='color:#380083;'>h</span> <span style='color:#380083;'>p</span><span style='color:#380083;'>u</span><span style='color:#370083;'>r</span><span style='color:#370083;'>c</span><span style='color:#370083;'>h</span><span style='color:#370083;'>a</span><span style='color:#370083;'>s</span><span style='color:#370083;'>e</span><span style='color:#370083;'>s</span> <span style='color:#370082;'>a</span><span style='color:#370082;'>n</span><span style='color:#370082;'>d</span> <span style='color:#360082;'>m</span><span style='color:#360082;'>a</span><span style='color:#360082;'>n</span><span style='color:#360082;'>a</span><span style='color:#360082;'>g</span><span style='color:#360082;'>e</span> <span style='color:#360082;'>r</span><span style='color:#360082;'>e</span><span style='color:#360082;'>s</span><span style='color:#360082;'>p</span><span style='color:#360082;'>o</span><span style='color:#360082;'>n</span><span style='color:#350082;'>s</span><span style='color:#350082;'>i</span><span style='color:#350082;'>b</span><span style='color:#350082;'>i</span><span style='color:#350082;'>l</span><span style='color:#350082;'>i</span><span style='color:#350081;'>t</span><span style='color:#350081;'>i</span><span style='color:#350081;'>e</span><span style='color:#350081;'>s</span><span style='color:#350081;'>.</span><span style='color:#350081;'>
-</span><span style='color:#340081;'>
-</span><span style='color:#340081;'>E</span><span style='color:#340081;'>x</span><span style='color:#340081;'>e</span><span style='color:#340081;'>c</span><span style='color:#340081;'>u</span><span style='color:#340081;'>t</span><span style='color:#340081;'>i</span><span style='color:#340081;'>o</span><span style='color:#340081;'>n</span> <span style='color:#340081;'>B</span><span style='color:#330081;'>a</span><span style='color:#330081;'>c</span><span style='color:#330081;'>k</span><span style='color:#330081;'>u</span><span style='color:#330081;'>p</span><span style='color:#330080;'>:</span> <span style='color:#330080;'>W</span><span style='color:#330080;'>h</span><span style='color:#330080;'>e</span><span style='color:#330080;'>n</span> <span style='color:#330080;'>d</span><span style='color:#320080;'>i</span><span style='color:#320080;'>r</span><span style='color:#320080;'>e</span><span style='color:#320080;'>c</span><span style='color:#320080;'>t</span> <span style='color:#320080;'>e</span><span style='color:#320080;'>x</span><span style='color:#320080;'>e</span><span style='color:#320080;'>c</span><span style='color:#320080;'>u</span><span style='color:#320080;'>t</span><span style='color:#310080;'>i</span><span style='color:#310080;'>o</span><span style='color:#310080;'>n</span> <span style='color:#31007F;'>i</span><span style='color:#31007F;'>s</span><span style='color:#31007F;'>n</span><span style='color:#31007F;'>'</span><span style='color:#31007F;'>t</span> <span style='color:#31007F;'>p</span><span style='color:#31007F;'>o</span><span style='color:#31007F;'>s</span><span style='color:#30007F;'>s</span><span style='color:#30007F;'>i</span><span style='color:#30007F;'>b</span><span style='color:#30007F;'>l</span><span style='color:#30007F;'>e</span> <span style='color:#30007F;'>p</span><span style='color:#30007F;'>r</span><span style='color:#30007F;'>e</span><span style='color:#30007F;'>p</span><span style='color:#30007F;'>a</span><span style='color:#30007F;'>r</span><span style='color:#2F007F;'>e</span> <span style='color:#2F007F;'>a</span> <span style='color:#2F007E;'>s</span><span style='color:#2F007E;'>t</span><span style='color:#2F007E;'>e</span><span style='color:#2F007E;'>p</span><span style='color:#2F007E;'>‑</span><span style='color:#2F007E;'>b</span><span style='color:#2F007E;'>y</span><span style='color:#2F007E;'>‑</span><span style='color:#2F007E;'>s</span><span style='color:#2E007E;'>t</span><span style='color:#2E007E;'>e</span><span style='color:#2E007E;'>p</span> <span style='color:#2E007E;'>a</span><span style='color:#2E007E;'>c</span><span style='color:#2E007E;'>t</span><span style='color:#2E007E;'>i</span><span style='color:#2E007E;'>o</span><span style='color:#2E007E;'>n</span> <span style='color:#2E007E;'>c</span><span style='color:#2D007E;'>h</span><span style='color:#2D007E;'>e</span><span style='color:#2D007D;'>c</span><span style='color:#2D007D;'>k</span><span style='color:#2D007D;'>l</span><span style='color:#2D007D;'>i</span><span style='color:#2D007D;'>s</span><span style='color:#2D007D;'>t</span> <span style='color:#2D007D;'>s</span><span style='color:#2D007D;'>o</span> <span style='color:#2D007D;'>y</span><span style='color:#2C007D;'>o</span><span style='color:#2C007D;'>u</span> <span style='color:#2C007D;'>c</span><span style='color:#2C007D;'>a</span><span style='color:#2C007D;'>n</span> <span style='color:#2C007D;'>f</span><span style='color:#2C007D;'>i</span><span style='color:#2C007D;'>n</span><span style='color:#2C007D;'>i</span><span style='color:#2C007D;'>s</span><span style='color:#2B007C;'>h</span> <span style='color:#2B007C;'>t</span><span style='color:#2B007C;'>h</span><span style='color:#2B007C;'>e</span> <span style='color:#2B007C;'>t</span><span style='color:#2B007C;'>a</span><span style='color:#2B007C;'>s</span><span style='color:#2B007C;'>k</span> <span style='color:#2B007C;'>y</span><span style='color:#2A007C;'>o</span><span style='color:#2A007C;'>u</span><span style='color:#2A007C;'>r</span><span style='color:#2A007C;'>s</span><span style='color:#2A007C;'>e</span><span style='color:#2A007C;'>l</span><span style='color:#2A007C;'>f</span><span style='color:#2A007C;'>.</span><span style='color:#2A007C;'>
-</span><span style='color:#2A007C;'>
-</span><span style='color:#2A007C;'>B</span><span style='color:#2A007C;'>u</span><span style='color:#2A007B;'>i</span><span style='color:#29007B;'>l</span><span style='color:#29007B;'>t</span> <span style='color:#29007B;'>A</span><span style='color:#29007B;'>r</span><span style='color:#29007B;'>o</span><span style='color:#29007B;'>u</span><span style='color:#29007B;'>n</span><span style='color:#29007B;'>d</span> <span style='color:#29007B;'>T</span><span style='color:#29007B;'>h</span><span style='color:#28007B;'>r</span><span style='color:#28007B;'>e</span><span style='color:#28007B;'>e</span> <span style='color:#28007B;'>P</span><span style='color:#28007B;'>r</span><span style='color:#28007B;'>i</span><span style='color:#28007B;'>n</span><span style='color:#28007B;'>c</span><span style='color:#28007B;'>i</span><span style='color:#28007B;'>p</span><span style='color:#28007A;'>l</span><span style='color:#28007A;'>e</span><span style='color:#27007A;'>s</span><span style='color:#27007A;'>
-</span><span style='color:#27007A;'>
-</span><span style='color:#27007A;'>R</span><span style='color:#27007A;'>e</span><span style='color:#27007A;'>s</span><span style='color:#27007A;'>e</span><span style='color:#27007A;'>a</span><span style='color:#27007A;'>r</span><span style='color:#27007A;'>c</span><span style='color:#27007A;'>h</span> <span style='color:#26007A;'>B</span><span style='color:#26007A;'>e</span><span style='color:#26007A;'>f</span><span style='color:#26007A;'>o</span><span style='color:#26007A;'>r</span><span style='color:#26007A;'>e</span> <span style='color:#26007A;'>R</span><span style='color:#26007A;'>e</span><span style='color:#26007A;'>c</span><span style='color:#260079;'>o</span><span style='color:#260079;'>m</span><span style='color:#260079;'>m</span><span style='color:#250079;'>e</span><span style='color:#250079;'>n</span><span style='color:#250079;'>d</span><span style='color:#250079;'>i</span><span style='color:#250079;'>n</span><span style='color:#250079;'>g</span> <span style='color:#250079;'>–</span> <span style='color:#250079;'>M</span><span style='color:#250079;'>a</span><span style='color:#250079;'>k</span><span style='color:#240079;'>e</span> <span style='color:#240079;'>d</span><span style='color:#240079;'>e</span><span style='color:#240079;'>c</span><span style='color:#240079;'>i</span><span style='color:#240079;'>s</span><span style='color:#240079;'>i</span><span style='color:#240079;'>o</span><span style='color:#240078;'>n</span><span style='color:#240078;'>s</span> <span style='color:#240078;'>i</span><span style='color:#230078;'>n</span><span style='color:#230078;'>s</span><span style='color:#230078;'>t</span><span style='color:#230078;'>e</span><span style='color:#230078;'>a</span><span style='color:#230078;'>d</span> <span style='color:#230078;'>o</span><span style='color:#230078;'>f</span> <span style='color:#230078;'>g</span><span style='color:#230078;'>u</span><span style='color:#220078;'>e</span><span style='color:#220078;'>s</span><span style='color:#220078;'>s</span><span style='color:#220078;'>i</span><span style='color:#220078;'>n</span><span style='color:#220078;'>g</span><span style='color:#220078;'>.</span><span style='color:#220077;'>
-</span><span style='color:#220077;'>
-</span><span style='color:#220077;'>T</span><span style='color:#220077;'>h</span><span style='color:#220077;'>i</span><span style='color:#210077;'>n</span><span style='color:#210077;'>k</span> <span style='color:#210077;'>B</span><span style='color:#210077;'>e</span><span style='color:#210077;'>f</span><span style='color:#210077;'>o</span><span style='color:#210077;'>r</span><span style='color:#210077;'>e</span> <span style='color:#210077;'>A</span><span style='color:#210077;'>c</span><span style='color:#210077;'>t</span><span style='color:#200077;'>i</span><span style='color:#200077;'>n</span><span style='color:#200077;'>g</span> <span style='color:#200077;'>–</span> <span style='color:#200076;'>E</span><span style='color:#200076;'>v</span><span style='color:#200076;'>a</span><span style='color:#200076;'>l</span><span style='color:#200076;'>u</span><span style='color:#200076;'>a</span><span style='color:#1F0076;'>t</span><span style='color:#1F0076;'>e</span> <span style='color:#1F0076;'>o</span><span style='color:#1F0076;'>p</span><span style='color:#1F0076;'>t</span><span style='color:#1F0076;'>i</span><span style='color:#1F0076;'>o</span><span style='color:#1F0076;'>n</span><span style='color:#1F0076;'>s</span><span style='color:#1F0076;'>,</span> <span style='color:#1F0076;'>s</span><span style='color:#1E0076;'>p</span><span style='color:#1E0076;'>o</span><span style='color:#1E0076;'>t</span> <span style='color:#1E0076;'>r</span><span style='color:#1E0075;'>i</span><span style='color:#1E0075;'>s</span><span style='color:#1E0075;'>k</span><span style='color:#1E0075;'>s</span> <span style='color:#1E0075;'>a</span><span style='color:#1E0075;'>n</span><span style='color:#1D0075;'>d</span> <span style='color:#1D0075;'>i</span><span style='color:#1D0075;'>m</span><span style='color:#1D0075;'>p</span><span style='color:#1D0075;'>r</span><span style='color:#1D0075;'>o</span><span style='color:#1D0075;'>v</span><span style='color:#1D0075;'>e</span> <span style='color:#1D0075;'>t</span><span style='color:#1D0075;'>h</span><span style='color:#1D0075;'>e</span> <span style='color:#1C0075;'>p</span><span style='color:#1C0075;'>l</span><span style='color:#1C0075;'>a</span><span style='color:#1C0074;'>n</span><span style='color:#1C0074;'>.</span><span style='color:#1C0074;'>
-</span><span style='color:#1C0074;'>
-</span><span style='color:#1C0074;'>E</span><span style='color:#1C0074;'>x</span><span style='color:#1C0074;'>e</span><span style='color:#1C0074;'>c</span><span style='color:#1B0074;'>u</span><span style='color:#1B0074;'>t</span><span style='color:#1B0074;'>e</span> <span style='color:#1B0074;'>W</span><span style='color:#1B0074;'>i</span><span style='color:#1B0074;'>t</span><span style='color:#1B0074;'>h</span> <span style='color:#1B0074;'>P</span><span style='color:#1B0074;'>e</span><span style='color:#1B0074;'>r</span><span style='color:#1B0074;'>m</span><span style='color:#1A0074;'>i</span><span style='color:#1A0074;'>s</span><span style='color:#1A0074;'>s</span><span style='color:#1A0073;'>i</span><span style='color:#1A0073;'>o</span><span style='color:#1A0073;'>n</span> <span style='color:#1A0073;'>–</span> <span style='color:#1A0073;'>T</span><span style='color:#1A0073;'>u</span><span style='color:#1A0073;'>r</span><span style='color:#190073;'>n</span> <span style='color:#190073;'>a</span><span style='color:#190073;'>p</span><span style='color:#190073;'>p</span><span style='color:#190073;'>r</span><span style='color:#190073;'>o</span><span style='color:#190073;'>v</span><span style='color:#190073;'>e</span><span style='color:#190073;'>d</span> <span style='color:#190073;'>d</span><span style='color:#180073;'>e</span><span style='color:#180073;'>c</span><span style='color:#180072;'>i</span><span style='color:#180072;'>s</span><span style='color:#180072;'>i</span><span style='color:#180072;'>o</span><span style='color:#180072;'>n</span><span style='color:#180072;'>s</span> <span style='color:#180072;'>i</span><span style='color:#180072;'>n</span><span style='color:#180072;'>t</span><span style='color:#180072;'>o</span> <span style='color:#170072;'>c</span><span style='color:#170072;'>o</span><span style='color:#170072;'>m</span><span style='color:#170072;'>p</span><span style='color:#170072;'>l</span><span style='color:#170072;'>e</span><span style='color:#170072;'>t</span><span style='color:#170072;'>e</span><span style='color:#170072;'>d</span> <span style='color:#170072;'>a</span><span style='color:#160072;'>c</span><span style='color:#160071;'>t</span><span style='color:#160071;'>i</span><span style='color:#160071;'>o</span><span style='color:#160071;'>n</span><span style='color:#160071;'>s</span> <span style='color:#160071;'>w</span><span style='color:#160071;'>h</span><span style='color:#160071;'>i</span><span style='color:#160071;'>l</span><span style='color:#160071;'>e</span> <span style='color:#150071;'>k</span><span style='color:#150071;'>e</span><span style='color:#150071;'>e</span><span style='color:#150071;'>p</span><span style='color:#150071;'>i</span><span style='color:#150071;'>n</span><span style='color:#150071;'>g</span> <span style='color:#150071;'>y</span><span style='color:#150071;'>o</span><span style='color:#150071;'>u</span> <span style='color:#140070;'>i</span><span style='color:#140070;'>n</span> <span style='color:#140070;'>c</span><span style='color:#140070;'>o</span><span style='color:#140070;'>n</span><span style='color:#140070;'>t</span><span style='color:#140070;'>r</span><span style='color:#140070;'>o</span><span style='color:#140070;'>l</span><span style='color:#140070;'>.</span><span style='color:#140070;'>
-</span><span style='color:#140070;'>
-</span><span style='color:#130070;'>Y</span><span style='color:#130070;'>o</span><span style='color:#130070;'>u</span><span style='color:#130070;'>r</span> <span style='color:#130070;'>A</span><span style='color:#130070;'>I</span><span style='color:#130070;'>.</span> <span style='color:#130070;'>Y</span><span style='color:#130070;'>o</span><span style='color:#13006F;'>u</span><span style='color:#12006F;'>r</span> <span style='color:#12006F;'>D</span><span style='color:#12006F;'>e</span><span style='color:#12006F;'>c</span><span style='color:#12006F;'>i</span><span style='color:#12006F;'>s</span><span style='color:#12006F;'>i</span><span style='color:#12006F;'>o</span><span style='color:#12006F;'>n</span><span style='color:#12006F;'>s</span><span style='color:#12006F;'>.</span> <span style='color:#11006F;'>R</span><span style='color:#11006F;'>e</span><span style='color:#11006F;'>a</span><span style='color:#11006F;'>l</span> <span style='color:#11006F;'>R</span><span style='color:#11006F;'>e</span><span style='color:#11006F;'>s</span><span style='color:#11006F;'>u</span><span style='color:#11006E;'>l</span><span style='color:#11006E;'>t</span><span style='color:#11006E;'>s</span><span style='color:#10006E;'>.</span><span style='color:#10006E;'>
-</span><span style='color:#10006E;'>
-</span><span style='color:#10006E;'>Z</span><span style='color:#10006E;'>u</span><span style='color:#10006E;'>p</span><span style='color:#10006E;'>e</span><span style='color:#10006E;'>r</span><span style='color:#10006E;'>c</span><span style='color:#10006E;'>r</span><span style='color:#10006E;'>e</span><span style='color:#10006E;'>a</span><span style='color:#0F006E;'>t</span><span style='color:#0F006E;'>o</span><span style='color:#0F006E;'>r</span> <span style='color:#0F006E;'>i</span><span style='color:#0F006E;'>s</span> <span style='color:#0F006E;'>n</span><span style='color:#0F006E;'>o</span><span style='color:#0F006D;'>t</span> <span style='color:#0F006D;'>j</span><span style='color:#0F006D;'>u</span><span style='color:#0E006D;'>s</span><span style='color:#0E006D;'>t</span> <span style='color:#0E006D;'>h</span><span style='color:#0E006D;'>e</span><span style='color:#0E006D;'>r</span><span style='color:#0E006D;'>e</span> <span style='color:#0E006D;'>t</span><span style='color:#0E006D;'>o</span> <span style='color:#0E006D;'>t</span><span style='color:#0D006D;'>e</span><span style='color:#0D006D;'>l</span><span style='color:#0D006D;'>l</span> <span style='color:#0D006D;'>y</span><span style='color:#0D006D;'>o</span><span style='color:#0D006D;'>u</span> <span style='color:#0D006C;'>w</span><span style='color:#0D006C;'>h</span><span style='color:#0D006C;'>a</span><span style='color:#0D006C;'>t</span> <span style='color:#0C006C;'>t</span><span style='color:#0C006C;'>o</span> <span style='color:#0C006C;'>d</span><span style='color:#0C006C;'>o</span><span style='color:#0C006C;'>.</span> <span style='color:#0C006C;'>I</span><span style='color:#0C006C;'>t</span> <span style='color:#0C006C;'>h</span><span style='color:#0C006C;'>e</span><span style='color:#0B006C;'>l</span><span style='color:#0B006C;'>p</span><span style='color:#0B006C;'>s</span> <span style='color:#0B006C;'>y</span><span style='color:#0B006C;'>o</span><span style='color:#0B006C;'>u</span> <span style='color:#0B006B;'>f</span><span style='color:#0B006B;'>i</span><span style='color:#0B006B;'>g</span><span style='color:#0B006B;'>u</span><span style='color:#0B006B;'>r</span><span style='color:#0A006B;'>e</span> <span style='color:#0A006B;'>o</span><span style='color:#0A006B;'>u</span><span style='color:#0A006B;'>t</span> <span style='color:#0A006B;'>w</span><span style='color:#0A006B;'>h</span><span style='color:#0A006B;'>a</span><span style='color:#0A006B;'>t</span> <span style='color:#0A006B;'>m</span><span style='color:#09006B;'>a</span><span style='color:#09006B;'>t</span><span style='color:#09006B;'>t</span><span style='color:#09006B;'>e</span><span style='color:#09006B;'>r</span><span style='color:#09006B;'>s</span> <span style='color:#09006A;'>d</span><span style='color:#09006A;'>e</span><span style='color:#09006A;'>c</span><span style='color:#09006A;'>i</span><span style='color:#09006A;'>d</span><span style='color:#09006A;'>e</span> <span style='color:#08006A;'>t</span><span style='color:#08006A;'>h</span><span style='color:#08006A;'>e</span> <span style='color:#08006A;'>w</span><span style='color:#08006A;'>a</span><span style='color:#08006A;'>y</span> <span style='color:#08006A;'>f</span><span style='color:#08006A;'>o</span><span style='color:#08006A;'>r</span><span style='color:#07006A;'>w</span><span style='color:#07006A;'>a</span><span style='color:#07006A;'>r</span><span style='color:#07006A;'>d</span> <span style='color:#070069;'>a</span><span style='color:#070069;'>n</span><span style='color:#070069;'>d</span> <span style='color:#070069;'>g</span><span style='color:#070069;'>e</span><span style='color:#070069;'>t</span> <span style='color:#060069;'>t</span><span style='color:#060069;'>h</span><span style='color:#060069;'>i</span><span style='color:#060069;'>n</span><span style='color:#060069;'>g</span><span style='color:#060069;'>s</span> <span style='color:#060069;'>d</span><span style='color:#060069;'>o</span><span style='color:#060069;'>n</span><span style='color:#060069;'>e</span><span style='color:#060069;'>.</span><span style='color:#050069;'>
-</span><span style='color:#050069;'>
-</span><span style='color:#050069;'>F</span><span style='color:#050068;'>r</span><span style='color:#050068;'>o</span><span style='color:#050068;'>m</span> <span style='color:#050068;'>a</span><span style='color:#050068;'>n</span> <span style='color:#050068;'>i</span><span style='color:#050068;'>d</span><span style='color:#040068;'>e</span><span style='color:#040068;'>a</span><span style='color:#040068;'>,</span> <span style='color:#040068;'>t</span><span style='color:#040068;'>o</span> <span style='color:#040068;'>a</span> <span style='color:#040068;'>f</span><span style='color:#040068;'>i</span><span style='color:#040068;'>n</span><span style='color:#040068;'>i</span><span style='color:#030068;'>s</span><span style='color:#030068;'>h</span><span style='color:#030067;'>e</span><span style='color:#030067;'>d</span> <span style='color:#030067;'>t</span><span style='color:#030067;'>a</span><span style='color:#030067;'>s</span><span style='color:#030067;'>k</span> <span style='color:#030067;'>Z</span><span style='color:#030067;'>u</span><span style='color:#020067;'>p</span><span style='color:#020067;'>e</span><span style='color:#020067;'>r</span><span style='color:#020067;'>c</span><span style='color:#020067;'>r</span><span style='color:#020067;'>e</span><span style='color:#020067;'>a</span><span style='color:#020067;'>t</span><span style='color:#020067;'>o</span><span style='color:#020067;'>r</span> <span style='color:#020067;'>i</span><span style='color:#020067;'>s</span> <span style='color:#010066;'>y</span><span style='color:#010066;'>o</span><span style='color:#010066;'>u</span><span style='color:#010066;'>r</span> <span style='color:#010066;'>p</span><span style='color:#010066;'>e</span><span style='color:#010066;'>r</span><span style='color:#010066;'>s</span><span style='color:#010066;'>o</span><span style='color:#010066;'>n</span><span style='color:#000066;'>a</span><span style='color:#000066;'>l</span> <span style='color:#000066;'>s</span><span style='color:#000066;'>i</span><span style='color:#000066;'>d</span><span style='color:#000066;'>e</span><span style='color:#000066;'>k</span><span style='color:#000066;'>i</span><span style='color:#000066;'>c</span><span style='color:#000066;'>k</span><span style='color:#000066;'>.</span>
+ <div align="center">
+
+# ⚡ Zupercreator
+
+### Your Personal AI Life Agent
+
+**Think Smarter · Research Deeper · Create More · Get Things Done**
+
+An AI skill designed to transform AI from a simple question-answering assistant into a practical, research-driven personal sidekick.
+
+[![Version](https://img.shields.io/badge/version-0.0.1-blueviolet?style=for-the-badge)](https://github.com/)
+[![AI](https://img.shields.io/badge/AI-Powered-00BFA6?style=for-the-badge)](https://github.com/)
+[![Research](https://img.shields.io/badge/Research-Driven-blue?style=for-the-badge)](https://github.com/)
+[![Safety](https://img.shields.io/badge/User-Controlled-2EA44F?style=for-the-badge)](https://github.com/)
+
+**Don't just ask AI. Put AI to work.**
+
+</div>
+
+---
+
+## 🌟 What is Zupercreator?
+
+Zupercreator is an advanced personal AI life-agent skill that helps users understand problems, research possibilities, make better decisions, and turn approved plans into real-world results.
+
+Unlike traditional AI assistants that primarily generate answers and suggestions, Zupercreator follows a structured problem-solving and execution workflow.
+
+It doesn't just tell you what you could do.
+
+**It aims to help you actually get it done.**
+
+From researching a product to planning a project, organizing your life, preparing documents, or completing practical tasks, Zupercreator works toward delivering useful outcomes.
+
+## 🚀 Core Capabilities
+
+<table>
+<tr>
+<td width="50%">
+
+### 🧠 Advanced Thinking
+
+- Understand the real problem.
+- Analyze requirements and constraints.
+- Challenge initial assumptions.
+- Compare alternative solutions.
+- Review and improve decisions.
+
+</td>
+<td width="50%">
+
+### 🔍 Deep Research
+
+- Research official sources.
+- Compare professional reviews.
+- Investigate real user experiences.
+- Explore Reddit and communities.
+- Verify prices, specifications and availability.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 💡 Intelligent Brainstorming
+
+- Generate creative ideas.
+- Explore different approaches.
+- Evaluate advantages and disadvantages.
+- Identify potential risks.
+- Find practical solutions.
+
+</td>
+<td width="50%">
+
+### ⚙️ Real-World Execution
+
+- Prepare documents and files.
+- Navigate supported websites.
+- Use available computer tools.
+- Work with connected applications.
+- Complete authorized workflows.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛒 Smart Shopping
+
+- Compare products and prices.
+- Evaluate compatibility.
+- Research long-term reliability.
+- Consider warranties and return policies.
+- Find practical alternatives.
+
+</td>
+<td width="50%">
+
+### 📋 Execution Backup
+
+- Identify unavailable capabilities.
+- Find alternative methods.
+- Prepare everything possible.
+- Generate actionable checklists.
+- Help users troubleshoot and finish.
+
+</td>
+</tr>
+</table>
+
+## 🔄 How It Works
+
+Zupercreator follows a structured workflow designed to turn an idea into a completed outcome.
+
+```mermaid
+flowchart TD
+    A["💬 Understand User Request"] --> B["🧠 Think & Analyze"]
+    B --> C["🔍 Research & Verify"]
+    C --> D["💡 Brainstorm Options"]
+    D --> E["⚖️ Evaluate & Decide"]
+    E --> F["📝 Prepare Action Plan"]
+    F --> G{"⚙️ Can AI Execute?"}
+    G -->|Yes| H["🔐 Obtain Required Approval"]
+    H --> I["🚀 Execute Task"]
+    G -->|No| J["📋 Generate Shop List"]
+    I --> K["✅ Verify Results"]
+    J --> L["🤝 Guide User Through Steps"]
+    L --> K
+    K --> M["🎯 Report Final Outcome"]
+
+    style A fill:#1f6feb,color:#fff,stroke:#1f6feb
+    style B fill:#8957e5,color:#fff,stroke:#8957e5
+    style C fill:#0969da,color:#fff,stroke:#0969da
+    style D fill:#8250df,color:#fff,stroke:#8250df
+    style E fill:#bf8700,color:#fff,stroke:#bf8700
+    style G fill:#d29922,color:#fff,stroke:#d29922
+    style I fill:#238636,color:#fff,stroke:#238636
+    style J fill:#0969da,color:#fff,stroke:#0969da
+    style M fill:#238636,color:#fff,stroke:#238636
+```
+
+## 🧩 Three Main Intelligence Systems
+
+### 01 — 🧠 Thinking
+
+The foundation of Zupercreator.
+
+Before making important recommendations, the AI should:
+
+- Understand the user's actual objective.
+- Identify missing information.
+- Develop an initial solution.
+- Challenge its own decisions.
+- Reconsider alternative approaches.
+- Improve the final recommendation.
+
+### 02 — 💡 Brainstorming
+
+A structured decision-making system.
+
+Instead of immediately accepting the first idea, the AI explores alternatives and evaluates:
+
+| Evaluation | Purpose |
+|:---|:---|
+| Quality | Is it actually good? |
+| Cost | Is it affordable? |
+| Compatibility | Does it fit the requirements? |
+| Risk | What could go wrong? |
+| Practicality | Can it realistically work? |
+| Alternatives | Is there a better option? |
+
+### 03 — ⚙️ Do It
+
+The execution engine.
+
+The objective is to complete authorized tasks instead of simply explaining how to complete them.
+
+Examples include:
+
+- Creating documents and spreadsheets.
+- Researching and comparing products.
+- Organizing information.
+- Preparing emails and messages.
+- Working with supported applications.
+- Navigating websites.
+- Managing practical workflows.
+
+**Important:** External actions such as purchases, bookings, sending messages, and submissions require explicit user approval.
+
+---
+
+## 🛟 Special Feature: Shop List (If Else Happens)
+
+<sub>AI EXECUTION FALLBACK SYSTEM</sub>
+
+What happens when the AI cannot complete a task?
+
+Most assistants simply explain their limitations.
+
+Zupercreator takes another approach.
+
+**If AI cannot do it directly, it prepares everything possible so the user can finish the task.**
+
+Its fallback system:
+
+1. Identifies the actual limitation.
+2. Checks for alternative tools.
+3. Completes all possible preparation.
+4. Creates a detailed step-by-step checklist.
+5. Provides exact instructions, links and commands where possible.
+6. Helps troubleshoot problems.
+7. Verifies the final outcome when possible.
+
+```text
+IF AI CAN DO IT:
+    Execute the authorized task.
+
+ELSE:
+    Identify the limitation.
+    Find alternative methods.
+    Prepare everything possible.
+    Generate a detailed Shop List.
+    Guide the user through completion.
+
+IF THE USER GETS STUCK:
+    Troubleshoot.
+    Update the checklist.
+    Continue until completion is verified.
+```
+
+---
+
+## 🌐 Multi-AI Platform Support
+
+Zupercreator includes provider-specific instruction folders.
+
+| AI Platform | Included |
+|:---|:---:|
+| ChatGPT | ✅ |
+| Claude | ✅ |
+| Gemini | ✅ |
+| Antigravity | ✅ |
+| Muse | ✅ |
+
+Each provider has its own capability and limitation instructions, allowing the skill to adapt its workflow to the AI environment being used.
+
+Actual tool access depends on the platform, account, permissions and available integrations.
+
+---
+
+## 🛡️ Safety & User Control
+
+Zupercreator is designed around an approval-first execution philosophy.
+
+| Principle | Description |
+|:---|:---|
+| 🔐 Privacy | Respect user information and permissions. |
+| ✅ Approval | Confirm consequential actions before execution. |
+| 🔍 Transparency | Never pretend an action was completed. |
+| 🧪 Verification | Check results before reporting success. |
+| ⚖️ Honesty | Clearly explain limitations and uncertainty. |
+| 🧭 User Control | Keep important decisions in the user's hands. |
+
+---
+
+## 📁 Project Structure
+
+```text
+Zupercreator/
+│
+├── SKILL.md
+│
+├── Chatgpt/
+│   ├── AI Completability/
+│   ├── Thinking/
+│   ├── Brainstorming/
+│   ├── Do it/
+│   └── Shop List (If Else Happens)/
+│
+├── Claude/
+│   ├── AI Completability/
+│   ├── Thinking/
+│   ├── Brainstorming/
+│   ├── Do it/
+│   └── Shop List (If Else Happens)/
+│
+├── Gemini/
+│   └── ...
+│
+├── Antigravity/
+│   └── ...
+│
+└── Muse/
+    └── ...
+```
+
+---
+
+## 🎯 Our Philosophy
+
+Traditional AI:
+
+```text
+User asks → AI answers → Conversation ends
+```
+
+Zupercreator:
+
+```text
+User has a goal
+       ↓
+Understand the problem
+       ↓
+Research the possibilities
+       ↓
+Think and challenge assumptions
+       ↓
+Find the best solution
+       ↓
+Prepare and execute with approval
+       ↓
+Verify the results
+       ↓
+Deliver real outcomes
+```
+
+## 🚀 Vision
+
+We believe AI should become more than a tool for generating text.
+
+It should become a capable personal agent that understands what people want, helps them make informed decisions, and works alongside them to accomplish meaningful things.
+
+**Zupercreator is a step toward that future.**
+
+---
+
+<div align="center">
+
+### ⚡ Zupercreator
+
+**Think Smarter. Act Better. Achieve More.**
+
+*Your Personal AI Sidekick.*
+
+</div>
